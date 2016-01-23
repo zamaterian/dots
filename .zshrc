@@ -1,0 +1,1 @@
+/home/te/Dropbox/etc/zshrc
